@@ -3,13 +3,13 @@
 
 ## About this Project
 
-When the relationship between predictors and the outcome is complex and nonlinear, multi-task prediction models based on linear assumptions tend to perform poorly. Kernel functions can project the data into a higher-dimensional space, thereby simplifying these complex nonlinear relationships. To address this issue, we developed an improved method based on MTPS, called Kernelized Residual Stacking (KRS).
+Challenges such as insufficient connectivity of real biological networks and data noise still affect the accuracy of cancer prognosis prediction. To address these issues, this study proposes an adaptive dual-localized augmentation framework Adaptive Dual Local Augmentation(ADLA).
 ---
 ## Directory Layout
 
-We assume the user is running the script on R version **4.2.0** and has set up a directory with the same structure.
+We assume the user is running the script on python version **3.9.13** and has set up a directory with the same structure.
 ~~~
-    [your_deirctory]  
+    [your_directory]  
 ~~~
 R codes are in the subdirectory directory at **code**. 
 ~~~

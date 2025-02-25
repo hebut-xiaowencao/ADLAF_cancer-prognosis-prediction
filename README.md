@@ -31,28 +31,7 @@ all the **models**  are in the subdirectory directory at **Model**.
 <details>
 <summary>cancer</summary>
 
-D:.
-│  md.text
-│  
-├─BLCA
-│  ├─processed
-│  │      BLCA.pt
-│  │      BLCA_info.pkl
-│  │      pre_filter.pt
-│  │      pre_transform.pt
-│  │      
-│  └─raw
-│          omicsdata.xlsx
-│          
-├─BRCA
-│  ├─processed
-│  │      BRCA.pt
-│  │      BRCA_info.pkl
-│  │      pre_filter.pt
-│  │      pre_transform.pt
-│  │      
-│  └─raw
-│          omicsdata_BRCA.xlsx
+![image](https://github.com/user-attachments/assets/8eb9d5c4-7277-4dab-ac78-448b02472e62)
 
 
 </details> <details> <summary>Model</summary>

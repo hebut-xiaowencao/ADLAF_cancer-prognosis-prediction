@@ -19,14 +19,15 @@ all the **datasets**  are in the subdirectory directory at **cancer**.
 ~~~
     [your_directory]/cancer  
 ~~~
-all the **results**  are in the subdirectory directory at **IndicatorsResult**. 
-~~~
-    [your_directory]/IndicatorsResult 
-~~~
 all the **models**  are in the subdirectory directory at **Models**. 
 ~~~
     [your_directory]/Model
 ~~~
+all the **results**  are in the subdirectory directory at **IndicatorsResult**. 
+~~~
+    [your_directory]/IndicatorsResult 
+~~~
+
 
 
 <details>

@@ -42,7 +42,9 @@ all the **models**  are in the subdirectory directory at **Model**.
     │ 	  	 	 └── # The corresponding file will be generated after running preADLA.py			    
 
 </details>
-</details></summary>Model</summary>
+
+</details>
+<summary>Model</summary>
     ├── Train
     │ 	├── BRCA #cancer
     │       ├── # The corresponding file will be generated after running preADLA.py		

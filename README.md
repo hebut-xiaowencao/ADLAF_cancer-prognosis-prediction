@@ -23,23 +23,32 @@ all the **results**  are in the subdirectory directory at **IndicatorsResult**.
 ~~~
     [your_directory]/IndicatorsResult 
 ~~~
-all the **models**  are in the subdirectory directory at **Model**. 
+all the **models**  are in the subdirectory directory at **Models**. 
 ~~~
     [your_directory]/Model
 ~~~
+
 
 <details>
 <summary>cancer</summary>
 
 ![image](https://github.com/user-attachments/assets/702e5c9e-645c-4ce6-9024-5bcd6faf76b1)
 
-
-
-</details> <details> <summary>Model</summary>
-![image](https://github.com/user-attachments/assets/6949482a-061b-41e7-a060-9e8e3b9f5706)
+</details> 
+<details> 
+<summary>Model</summary>
+    
+![image](https://github.com/user-attachments/assets/ea67f735-0fd5-4193-a4a0-952fe10662a4)
 
 </details>
 
+<details> 
+<summary>IndicatorsResults</summary>
+    
+![image](https://github.com/user-attachments/assets/03cbbd02-df02-49fa-aba7-92975d00c188)
+
+<details>
+    
 ---
 ## Notice
 

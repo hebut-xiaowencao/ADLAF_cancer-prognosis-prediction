@@ -31,18 +31,13 @@ all the **models**  are in the subdirectory directory at **Model**.
 <details>
 <summary>cancer</summary>
 
-![image](https://github.com/user-attachments/assets/8eb9d5c4-7277-4dab-ac78-448b02472e62)
+![image](https://github.com/user-attachments/assets/702e5c9e-645c-4ce6-9024-5bcd6faf76b1)
+
 
 
 </details> <details> <summary>Model</summary>
+![image](https://github.com/user-attachments/assets/6949482a-061b-41e7-a060-9e8e3b9f5706)
 
-Model
-├── Train
-│ ├── BRCA # cancer
-│ │ ├── # The corresponding file will be generated after running preADLA.py
-├── Pretrain
-│ ├── BRCA # cancer
-│ │ ├── # The corresponding file will be generated after running preADLA.py
 </details>
 
 ---
@@ -52,7 +47,14 @@ In addition to the code, we also provide the environment that the user needs to 
 
 ---
 
+---
+## Step
 
+1.prepare omics_data
+2.run preADLA.py
+3.run trainADLA.py
+4.run CaseStudyADLA.py 
+---
 
 
 

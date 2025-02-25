@@ -58,7 +58,7 @@ In addition to the code, we also provide the environment that the user needs to 
 
 ## Step
 
-1.prepare omics_data
+1.prepare omics_dataCancertype.xlsx \\
 2.run preADLA.py
 3.run trainADLA.py
 4.run CaseStudyADLA.py 

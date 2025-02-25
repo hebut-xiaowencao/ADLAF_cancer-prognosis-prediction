@@ -28,7 +28,7 @@ all the **models**  are in the subdirectory directory at **Model**.
     [your_directory]/Model
 ~~~
 
-</details></summary>cancer</summary>
+</details><summary>cancer</summary>
     ├── cancer
     │ 	 ├── BRCA           #cancer1
     │ 	 │ 	 ├── raw		  

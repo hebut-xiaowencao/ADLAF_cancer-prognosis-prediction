@@ -32,17 +32,16 @@ all the **models**  are in the subdirectory directory at **Model**.
 <summary>cancer</summary>
 
 cancer
-├──   cancer
-│   ├──   BRCA           # cancer1
-│   │   ├──   raw
-│   │   │   ├── omicsdata_BRCA.csv
-│   │   └── process
-│   │       └── # The corresponding file will be generated after running preADLA.py
-│   └── CESC           # cancer2
-│       ├── raw
-│       │   ├── omicsdata_BRCA.csv
-│       └── process
-│           └── # The corresponding file will be generated after running preADLA.py
++---BRCA
+|   +---processed
+|   |       BRCA.pt
+|   |       BRCA_info.pkl
+|   |       pre_filter.pt
+|   |       pre_transform.pt
+|   |       
+|   \---raw
+|           omicsdata_BRCA.xlsx
+|  
 
 
 </details> <details> <summary>Model</summary>

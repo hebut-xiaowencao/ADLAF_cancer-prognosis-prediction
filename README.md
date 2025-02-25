@@ -31,17 +31,28 @@ all the **models**  are in the subdirectory directory at **Model**.
 <details>
 <summary>cancer</summary>
 
-cancer
-+---BRCA
-|   +---processed
-|   |       BRCA.pt
-|   |       BRCA_info.pkl
-|   |       pre_filter.pt
-|   |       pre_transform.pt
-|   |       
-|   \---raw
-|           omicsdata_BRCA.xlsx
-|  
+D:.
+│  md.text
+│  
+├─BLCA
+│  ├─processed
+│  │      BLCA.pt
+│  │      BLCA_info.pkl
+│  │      pre_filter.pt
+│  │      pre_transform.pt
+│  │      
+│  └─raw
+│          omicsdata.xlsx
+│          
+├─BRCA
+│  ├─processed
+│  │      BRCA.pt
+│  │      BRCA_info.pkl
+│  │      pre_filter.pt
+│  │      pre_transform.pt
+│  │      
+│  └─raw
+│          omicsdata_BRCA.xlsx
 
 
 </details> <details> <summary>Model</summary>

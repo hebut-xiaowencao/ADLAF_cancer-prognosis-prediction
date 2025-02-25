@@ -47,7 +47,6 @@ In addition to the code, we also provide the environment that the user needs to 
 
 ---
 
----
 ## Step
 
 1.prepare omics_data

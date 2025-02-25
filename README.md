@@ -47,7 +47,7 @@ all the **models**  are in the subdirectory directory at **Models**.
     
 ![image](https://github.com/user-attachments/assets/03cbbd02-df02-49fa-aba7-92975d00c188)
 
-<details>
+</details>
     
 ---
 ## Notice

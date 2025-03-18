@@ -1,4 +1,4 @@
-# ADLA_cancer-prognosis-prediction
+# ADLAF_cancer-prognosis-prediction
 ---
 
 ## About this Project

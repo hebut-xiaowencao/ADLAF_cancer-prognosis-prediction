@@ -31,20 +31,20 @@ all the **results**  are in the subdirectory directory at **k_{k}\\indicator**.
 
 
 <details>
-<summary>cancer</summary>
+<summary>\\k_{k}\\data</summary>
 
 ![image](https://github.com/user-attachments/assets/702e5c9e-645c-4ce6-9024-5bcd6faf76b1)
 
 </details> 
 <details> 
-<summary>Model</summary>
+<summary>Pretrain & Train</summary>
     
 ![image](https://github.com/user-attachments/assets/ea67f735-0fd5-4193-a4a0-952fe10662a4)
 
 </details>
 
 <details> 
-<summary>IndicatorsResults</summary>
+<summary>indicator</summary>
     
 ![image](https://github.com/user-attachments/assets/03cbbd02-df02-49fa-aba7-92975d00c188)
 

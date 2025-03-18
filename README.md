@@ -11,13 +11,13 @@ We assume the user is running the script on python version **3.9.19** and has se
 ~~~
     [your_directory]  
 ~~~
-Python codes are in the subdirectory directory at **k_{k}\\code**. 
+Python codes are in the subdirectory directory at **code**. 
 ~~~
-    [your_directory]\\k_{k}\\code  
+    [your_directory]\\code  
 ~~~
-all the **datasets**  are in the subdirectory directory at **k_{k}\\data**. 
+all the **omics_data**  are in the subdirectory directory at **k_{k}\\data**. 
 ~~~
-    [your_directory]\\k_{k}\\data  
+    [your_directory]\\k_{k}\\data\\raw  
 ~~~
 the **relationships.xlsx**  is in the subdirectory directory at **data**. 
 ~~~
@@ -33,20 +33,21 @@ all the **results**  are in the subdirectory directory at **k_{k}\\indicator**.
 <details>
 <summary>\\k_{k}\\data</summary>
 
-![image](https://github.com/user-attachments/assets/702e5c9e-645c-4ce6-9024-5bcd6faf76b1)
+![image](https://github.com/user-attachments/assets/008e05d7-01d3-40bb-b5f0-169fefdea972)
 
 </details> 
 <details> 
 <summary>Pretrain & Train</summary>
     
-![image](https://github.com/user-attachments/assets/ea67f735-0fd5-4193-a4a0-952fe10662a4)
+![image](https://github.com/user-attachments/assets/14d9ebc8-335b-4865-875d-97da71516b83)
 
 </details>
 
 <details> 
 <summary>indicator</summary>
     
-![image](https://github.com/user-attachments/assets/03cbbd02-df02-49fa-aba7-92975d00c188)
+![image](https://github.com/user-attachments/assets/5b46721c-0ef9-496f-b4e3-4a3c635082a3)
+
 
 </details>
     

@@ -11,21 +11,21 @@ We assume the user is running the script on python version **3.9.19** and has se
 ~~~
     [your_directory]  
 ~~~
-Python codes are in the subdirectory directory at **code**. 
+Python codes are in the subdirectory directory at **k_{k}\\code**. 
 ~~~
-    [your_directory]/code  
+    [your_directory]\\k_{k}\\code  
 ~~~
-all the **datasets**  are in the subdirectory directory at **cancer**. 
+all the **datasets**  are in the subdirectory directory at **k_{k}\\data**. 
 ~~~
-    [your_directory]/cancer  
+    [your_directory]\\k_{k}\\data  
 ~~~
-all the **models**  are in the subdirectory directory at **Models**. 
+the **relationships.xlsx**  is in the subdirectory directory at **data**. 
 ~~~
-    [your_directory]/Model
+    [your_directory]\\data
 ~~~
-all the **results**  are in the subdirectory directory at **IndicatorsResult**. 
+all the **results**  are in the subdirectory directory at **k_{k}\\indicator**. 
 ~~~
-    [your_directory]/IndicatorsResult 
+    [your_directory]\\k_{k}\\indicator
 ~~~
 
 
@@ -53,7 +53,7 @@ all the **results**  are in the subdirectory directory at **IndicatorsResult**.
 ---
 ## Notice
 
-In addition to the code, we also provide the environment that the user needs to configure.You can choose the version that suits your operating environment,  the necessary python packages are in the requirement.txt .
+In addition to the code, we also provide the environment that the user needs to configure. You can choose the version that suits your operating environment,  the necessary python packages are in the requirement.txt .
 
 ---
 
@@ -61,11 +61,13 @@ In addition to the code, we also provide the environment that the user needs to 
 
 1.prepare omics_dataCancertype.xlsx 
 
-2.run preADLA.py
+2.prepare the relationships.xlsx
 
-3.run trainADLA.py
+3.run preADLAF.py
 
-4.run CaseStudyADLA.py 
+4.run trainADLAF.py
+
+5.run CaseStudyADLAF.py 
 
 ---
 

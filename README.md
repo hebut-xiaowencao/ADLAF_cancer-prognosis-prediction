@@ -3,7 +3,7 @@
 
 ## About this Project
 
-Challenges such as insufficient connectivity of real biological networks and data noise still affect the accuracy of cancer prognosis prediction. To address these issues, this study proposes an adaptive dual-localized augmentation framework Adaptive Dual Local Augmentation(ADLA).
+Challenges such as insufficient connectivity of real biological networks and data noise still affect the accuracy of cancer prognosis prediction. To address these issues, this study proposes an Adaptive Dual Local Augmentation Framework (ADLAF).
 ---
 ## Directory Layout
 
